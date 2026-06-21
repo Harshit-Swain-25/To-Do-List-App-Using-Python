@@ -44,13 +44,13 @@ Project Folder/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Harshit-Swain-25/To-Do-List-App-Using-Python.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd To-Do-List-App-Using-Python
 ```
 
 ### 3. Run the program
